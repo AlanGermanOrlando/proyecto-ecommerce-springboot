@@ -1,6 +1,6 @@
 # UADE Shop API
 
-API REST de e-commerce desarrollada como Trabajo Practico Obligatorio para la materia Tecnicas de Programacion Orientada a Objetos (TPO) - UADE.
+API REST de e-commerce desarrollada como Trabajo Practico Obligatorio para la materia Aplicaciones Interactivas - UADE.
 
 El proyecto incluye:
 
